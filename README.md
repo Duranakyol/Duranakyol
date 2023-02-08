@@ -36,6 +36,8 @@
 
 2. <a href="https://medium.com/@duranakyol71/scrum-nedir-d98ec3640ce8" target="blank">Scrum nedir?</a>
 
+3. <a href="https://medium.com/@duranakyol71/redux-toolkit-b1712e3ce7b9" target="blank">Redux Toolkit</a>
+
 <br/>
 
 ## Veröffentlichte Projekte
