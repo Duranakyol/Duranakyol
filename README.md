@@ -38,6 +38,8 @@
 
 3. <a href="https://medium.com/@duranakyol71/redux-toolkit-b1712e3ce7b9" target="blank">Redux Toolkit</a>
 
+4. <a href="https://medium.com/@duranakyol71/react-components-2368284bf753" target="blank">React Components</a>
+
 <br/>
 
 ## Veröffentlichte Projekte
