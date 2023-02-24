@@ -40,11 +40,15 @@
 
 4. <a href="https://medium.com/@duranakyol71/react-components-2368284bf753" target="blank">React Components</a>
 
+5. <a href="https://medium.com/@duranakyol71/bootstrap-cc6c1921cbad" target="blank">Bootstrap</a>
+
 <br/>
 
 ## Veröffentlichte Projekte
 
 1. <a href="https://dysm-social.netlify.app" target="blank">Dysm-Social</a>
+2. <a href="https://herbalife71.netlify.app" target="blank">Herbalife 71</a>
+3. <a href="https://bershop.netlify.app" target="blank">BER SHOP</a>
 
 <br/>
 
