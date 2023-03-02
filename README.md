@@ -4,7 +4,7 @@
 
 ## Frontend Web Entwickler
 
-\*\*\* Können Sie klicken um mein Page zu sehen. <a href="https://duranakyol.netlify.app" target="_blank">Go to Page</a>
+\*\*\* Sie können klicken um mein Page zu sehen. <a href="https://duranakyol.netlify.app" target="_blank">Go to Page</a>
 
 <font color="blueviolet" >Information Tecnology (IT) ist nicht mein Job sondern wie mein Hobby</font>
 
