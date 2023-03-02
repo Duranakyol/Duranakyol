@@ -4,6 +4,8 @@
 
 ## Frontend Web Entwickler
 
+=> Können Sie klicken um mein Page zu sehen. <a href="https://duranakyol.netlify.app" target="_blank">Go to Page</a>
+
 <font color="blueviolet" >Information Tecnology (IT) ist nicht mein Job sondern wie mein Hobby</font>
 
 <h2 style="color: red">Sie können mir erreichen : </h2>
@@ -42,6 +44,8 @@
 
 5. <a href="https://medium.com/@duranakyol71/bootstrap-cc6c1921cbad" target="_blank">Bootstrap</a>
 
+6. <a href="https://medium.com/@duranakyol71/netlify-deploying-b7d0b11da48c" target="_blank">Netlify (Deploying)</a>
+
 <br/>
 
 ## Veröffentlichte Projekte
@@ -53,6 +57,8 @@
 3. <a href="https://bershop.netlify.app" target="_blank">BER SHOP</a>
 
 4. <a href="https://falcon-chatapp.netlify.app" target="_blank">FALCON ChatApp</a>
+
+5. <a href="https://duranakyol.netlify.app" target="_blank">My Portfolio</a>
 
 <br/>
 
