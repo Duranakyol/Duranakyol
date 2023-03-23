@@ -34,17 +34,19 @@
 
 ## Latest Blog
 
-1. <a href="https://medium.com/@duranakyol71/react-state-management-6711538dc296" target="_blank">React State Management</a>
+1. <a href="https://medium.com/@duranakyol71/netlify-deploying-b7d0b11da48c" target="_blank">Netlify (Deploying)</a>
 
-2. <a href="https://medium.com/@duranakyol71/scrum-nedir-d98ec3640ce8" target="_blank">Scrum nedir?</a>
+2. <a href="https://medium.com/@duranakyol71/was-ist-der-github-d1cce65f5132" target="_blank">Was ist der GitHub?</a>
 
-3. <a href="https://medium.com/@duranakyol71/redux-toolkit-b1712e3ce7b9" target="_blank">Redux Toolkit</a>
+3. <a href="https://medium.com/@duranakyol71/react-state-management-6711538dc296" target="_blank">React State Management</a>
 
-4. <a href="https://medium.com/@duranakyol71/react-components-2368284bf753" target="_blank">React Components</a>
+4. <a href="https://medium.com/@duranakyol71/scrum-nedir-d98ec3640ce8" target="_blank">Scrum nedir?</a>
 
-5. <a href="https://medium.com/@duranakyol71/bootstrap-cc6c1921cbad" target="_blank">Bootstrap</a>
+5. <a href="https://medium.com/@duranakyol71/redux-toolkit-b1712e3ce7b9" target="_blank">Redux Toolkit</a>
 
-6. <a href="https://medium.com/@duranakyol71/netlify-deploying-b7d0b11da48c" target="_blank">Netlify (Deploying)</a>
+6. <a href="https://medium.com/@duranakyol71/react-components-2368284bf753" target="_blank">React Components</a>
+
+7. <a href="https://medium.com/@duranakyol71/bootstrap-cc6c1921cbad" target="_blank">Bootstrap</a>
 
 <br/>
 
